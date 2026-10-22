@@ -1,0 +1,35 @@
+{
+  "desktop": {
+    "elementsBefore": 330,
+    "elementsAfter": 330,
+    "elementDifferences": 0,
+    "screenshotDimensionsMatch": true,
+    "changedChannels": 0,
+    "maxChannelDelta": 0
+  },
+  "tablet": {
+    "elementsBefore": 330,
+    "elementsAfter": 330,
+    "elementDifferences": 0,
+    "screenshotDimensionsMatch": true,
+    "changedChannels": 0,
+    "maxChannelDelta": 0
+  },
+  "phone": {
+    "elementsBefore": 330,
+    "elementsAfter": 330,
+    "elementDifferences": 0,
+    "screenshotDimensionsMatch": true,
+    "changedChannels": 0,
+    "maxChannelDelta": 0
+  },
+  "small": {
+    "elementsBefore": 330,
+    "elementsAfter": 330,
+    "elementDifferences": 0,
+    "screenshotDimensionsMatch": true,
+    "changedChannels": 0,
+    "maxChannelDelta": 0
+  },
+  "pageErrors": []
+}

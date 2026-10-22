@@ -1,0 +1,35 @@
+{
+  "tool": "Built-in image_gen",
+  "reference": "exec-e0dcc779-93ab-42f7-8ed8-16d777d058a7.png",
+  "purpose": "Illustrative AI-generated images for the Copper/Walnut homepage layout.",
+  "images": [
+    {
+      "file": "public/images/atelier/hero-living.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Wide landscape 16:9, a magnificent contemporary tropical living room with huge timber-framed windows and lush green palms outside. L-shaped ivory linen sofa on the right, low rectangular veined travertine coffee table central foreground, warm textured stone wall with open timber shelving on left, timber ceiling with warm cove lighting, woven cane chair right. Shot from living room entry, beautiful clear architectural perspective. Main furniture across centre and right, quieter upper left and centre for an overlaid large white heading. Soft late afternoon light, serene high-end architectural magazine photo."
+    },
+    {
+      "file": "public/images/atelier/philosophy-vase.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Portrait 3:4 architectural still-life, large weathered handmade sandy ceramic vase holding a delicate leafy branch, on the floor of a stone-clad niche beside a tall narrow dark timber window. Strong beautiful diagonal sunlight and leafy shadows across warm limestone walls and floor. Tight refined composition with vase centre lower right, contemplative tactile materiality. No furniture clutter."
+    },
+    {
+      "file": "public/images/atelier/quote-lounge.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Wide landscape 16:9, elegant tropical residential lounge, sculptural walnut and cane armchair left foreground, ivory linen sofa behind, narrow brass floor lamp, dark timber shelving and framed garden windows, small stone side table, rich warm afternoon sun. Layered natural depth, atmospheric and luxurious, centre area relatively quiet for a large overlaid white quotation. Dark walnut and golden greenery tones."
+    },
+    {
+      "file": "public/images/atelier/craft-carving.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Wide landscape 16:9 macro documentary photograph of a Sri Lankan master artisan's hands carefully carving intricate floral details into dark walnut wood with a fine steel chisel at a traditional wood workbench. Close crop of only hands, chisel and carved panel, no face. Realistic human hands, rich detailed wood shavings and beautifully resolved ornament. Warm natural workshop side light, sombre background, centre dark enough for overlaid ivory heading. Respectful genuine craftsmanship, not staged stock imagery."
+    },
+    {
+      "file": "public/images/atelier/journal-restraint.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Landscape 16:9 editorial detail of a minimalist travertine console table holding a single shallow handmade dark stone bowl, next to a tall timber-framed window overlooking lush tropical foliage. Soft ivory wall with diagonal sunlight and shadows. Quiet, restrained composition and refined natural materials."
+    },
+    {
+      "file": "public/images/atelier/journal-luxury.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Landscape 16:9 intimate warm interior detail, beautifully textured ivory linen sofa with taupe and cream cushions, a low sculptural walnut side table and glowing simple linen-shaded lamp, subtle textured limestone wall and soft curtains. Layered fabric detail and gentle daylight, understated luxury."
+    },
+    {
+      "file": "public/images/atelier/journal-craft.webp",
+      "prompt": "Use case: photorealistic-natural. Create a single standalone high-end editorial photograph for Mackenzie's Atelier, a Sri Lankan interior design studio. Warm copper, walnut, sand, ivory and charcoal palette, authentic limestone, teak/walnut, ivory linen and brass, restrained tropical luxury, natural believable textures and proportions. No text, watermark, logo, UI or collage. Landscape 16:9 very close editorial photograph of intricate traditional Sri Lankan carved timber panel, detailed floral relief carving in rich warm walnut wood, handmade dimensional craftsmanship and raking soft side light, tactile shadow depth, no people."
+    }
+  ]
+}

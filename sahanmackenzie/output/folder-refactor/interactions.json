@@ -1,0 +1,36 @@
+{
+  "heroCentered": true,
+  "heroParallax": true,
+  "counters": [
+    "10+",
+    "8",
+    "8",
+    "4"
+  ],
+  "reveal": true,
+  "servicesCarousel": true,
+  "projectsCarousel": true,
+  "drag": true,
+  "quoteSelection": 2,
+  ".testiParallax": true,
+  ".videoParallax": true,
+  "faq": true,
+  "backToTop": true,
+  "heroTimer": true,
+  "quoteTimer": true,
+  "reducedMotion": true,
+  "routes": {
+    "about-1280": true,
+    "services-1280": true,
+    "spaces-1280": true,
+    "process-1280": true,
+    "contact-1280": true,
+    "about-390": true,
+    "services-390": true,
+    "spaces-390": true,
+    "process-390": true,
+    "contact-390": true
+  },
+  "notFound": true,
+  "pageErrors": []
+}

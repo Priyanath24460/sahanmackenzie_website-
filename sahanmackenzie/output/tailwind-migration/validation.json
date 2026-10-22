@@ -1,0 +1,27 @@
+{
+  "heroCentered": true,
+  "heroParallax": true,
+  "counters": [
+    "10+",
+    "8",
+    "8",
+    "4"
+  ],
+  "reveals": 4,
+  "servicesCarousel": 302,
+  "projectsCarousel": 580,
+  "drag": true,
+  "quoteChoice": 2,
+  ".testiParallax": true,
+  ".videoParallax": true,
+  "faq": "true",
+  "backToTop": true,
+  "heroSlideshow": true,
+  "quoteSlideshow": true,
+  "reducedMotion": true,
+  "desktopScreenshotChangedChannels": 2360340,
+  "desktopScreenshotTotalChannels": 19660800,
+  "phoneScreenshotChangedChannels": 2529,
+  "phoneScreenshotTotalChannels": 9558900,
+  "pageErrors": []
+}

@@ -1,0 +1,26 @@
+{
+  "tool": "Built-in image_gen",
+  "purpose": "Illustrative AI-generated interiors, not completed client projects.",
+  "images": [
+    {
+      "file": "public/images/spaces/private-residences.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: single landscape architectural photograph for a 16:11 Spaces card on Mackenzie's Atelier interior design website. Premium architectural editorial photography, refined tropical Sri Lankan contemporary luxury, warm limestone, smoked timber, taupe linen, aged brass, quiet natural textures. Realistic light and proportions, straight verticals, no people, no writing, no logo, no watermark, no collage. Composition: generous coherent interior scene, main focal elements near centre, uncluttered darker upper quarter for white title overlay and calm lower edge for small tags. Subject: An intimate sophisticated private home living room with a bespoke walnut coffee table, ivory linen sofa, woven cane lounge chair, textured limestone wall and full-height timber windows opening onto a lush courtyard. Dappled afternoon sunlight, personal and welcoming, eye-level view."
+    },
+    {
+      "file": "public/images/spaces/estates-large-homes.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: single landscape architectural photograph for a 16:11 Spaces card on Mackenzie's Atelier interior design website. Premium architectural editorial photography, refined tropical Sri Lankan contemporary luxury, warm limestone, smoked timber, taupe linen, aged brass, quiet natural textures. Realistic light and proportions, straight verticals, no people, no writing, no logo, no watermark, no collage. Composition: generous coherent interior scene, main focal elements near centre, uncluttered darker upper quarter for white title overlay and calm lower edge for small tags. Subject: A magnificent expansive tropical estate interior with a double-height living hall, large stone columns, a sweeping sculptural staircase, exquisitely balanced furniture groups, warm timber ceiling and expansive courtyard glazing. Gracious architecture-led composition, restrained luxury, soft late afternoon light."
+    },
+    {
+      "file": "public/images/spaces/penthouses-apartments.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: single landscape architectural photograph for a 16:11 Spaces card on Mackenzie's Atelier interior design website. Premium architectural editorial photography, refined tropical Sri Lankan contemporary luxury, warm limestone, smoked timber, taupe linen, aged brass, quiet natural textures. Realistic light and proportions, straight verticals, no people, no writing, no logo, no watermark, no collage. Composition: generous coherent interior scene, main focal elements near centre, uncluttered darker upper quarter for white title overlay and calm lower edge for small tags. Subject: An elegant high-floor penthouse living and dining space, floor-to-ceiling corner windows framing distant Colombo coastline and ocean, sculptural neutral seating, honed travertine coffee table, refined timber joinery and brass pendant. Beautiful natural light and panoramic views, understated urban luxury."
+    },
+    {
+      "file": "public/images/spaces/coastal-villas.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: single landscape architectural photograph for a 16:11 Spaces card on Mackenzie's Atelier interior design website. Premium architectural editorial photography, refined tropical Sri Lankan contemporary luxury, warm limestone, smoked timber, taupe linen, aged brass, quiet natural textures. Realistic light and proportions, straight verticals, no people, no writing, no logo, no watermark, no collage. Composition: generous coherent interior scene, main focal elements near centre, uncluttered darker upper quarter for white title overlay and calm lower edge for small tags. Subject: A serene tropical coastal villa lounge opening seamlessly onto a shaded terrace and Indian Ocean view, natural timber beams, sheer linen curtains, generous cream seating, woven cane chairs, natural stone floor and lush palms. Soft golden coastal daylight, relaxed refined living."
+    },
+    {
+      "file": "public/images/spaces/boutique-hotels.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: single landscape architectural photograph for a 16:11 Spaces card on Mackenzie's Atelier interior design website. Premium architectural editorial photography, refined tropical Sri Lankan contemporary luxury, warm limestone, smoked timber, taupe linen, aged brass, quiet natural textures. Realistic light and proportions, straight verticals, no people, no writing, no logo, no watermark, no collage. Composition: generous coherent interior scene, main focal elements near centre, uncluttered darker upper quarter for white title overlay and calm lower edge for small tags. Subject: A small exquisite Sri Lankan boutique hotel reception lounge, sculptural travertine reception desk, richly textured warm plaster walls, dark handcrafted timber furniture, elegant cane seating, handmade brass pendants, tropical courtyard framed by arches. Intimate distinctive hospitality atmosphere, softly lit, refined rather than grand."
+    }
+  ]
+}
