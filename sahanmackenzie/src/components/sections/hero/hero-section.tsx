@@ -30,7 +30,10 @@ export default function HeroSection() {
           aria-label="Sunlit living room with a cream sectional, marble feature wall and sea view"
         />
       </div>
-      <div className="wrap hero-in mx-auto max-w-[1440px] px-[clamp(24px,3.6vw,52px)] phone:px-[22px] relative z-[2] flex h-full flex-col justify-center py-[110px] phone:py-[130px]">
+      <div
+        suppressHydrationWarning
+        className="wrap hero-in mx-auto max-w-[1440px] px-[clamp(24px,3.6vw,52px)] phone:px-[22px] relative z-[2] flex h-full flex-col justify-center py-[110px] phone:py-[130px]"
+      >
         <h1 className="flex shrink-0 flex-col font-sans leading-[1] font-light not-italic tracking-normal uppercase text-ivory text-[clamp(54px,min(9.4vw,16.5svh),140px)] tablet:text-[clamp(46px,9vw,82px)] phone:text-[clamp(38px,9.6vw,52px)]">
           <span className="ln block overflow-hidden pb-[.04em]"><span className="block animate-up">The art of</span></span>
           <span className="ln r block overflow-hidden pb-[.04em] self-end phone:self-start"><span className="block animate-up [animation-delay:.25s]">Timeless living</span></span>

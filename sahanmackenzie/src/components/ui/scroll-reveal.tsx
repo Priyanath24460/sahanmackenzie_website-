@@ -32,12 +32,17 @@ export default function ScrollReveal() {
       tb?.classList.toggle('show', y > h * 0.6);
       if (still) return;
       if (hero && y < h) {
-        // Keep the parallax copy clear of the independently positioned labels.
-        const maxShift = heroHeading && heroTags
-          ? Math.max(0, heroTags.offsetTop - hero.offsetTop - heroHeading.offsetTop - heroHeading.offsetHeight - 24)
-          : y * 0.25;
-        hero.style.transform = `translateY(${Math.min(y * 0.25, maxShift)}px)`;
-        hero.style.opacity = String(Math.max(0, 1 - y / (h * 0.8)));
+        if (y > 0) {
+          // Keep the parallax copy clear of the independently positioned labels.
+          const maxShift = heroHeading && heroTags
+            ? Math.max(0, heroTags.offsetTop - hero.offsetTop - heroHeading.offsetTop - heroHeading.offsetHeight - 24)
+            : y * 0.25;
+          hero.style.transform = `translateY(${Math.min(y * 0.25, maxShift)}px)`;
+          hero.style.opacity = String(Math.max(0, 1 - y / (h * 0.8)));
+        } else if (hero.style.transform || hero.style.opacity) {
+          hero.style.transform = '';
+          hero.style.opacity = '';
+        }
       }
       const b = band?.getBoundingClientRect();
       if (b && vp && b.top < h && b.bottom > 0) vp.style.transform = `translateY(${(b.top - h / 2) * -0.08}px)`;
